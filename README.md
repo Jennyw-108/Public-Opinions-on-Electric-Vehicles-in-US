@@ -1,4 +1,7 @@
 # Public-Opinions-on-Electric-Vehicles-in-US
-This repository presents the individual project for the DIGHUM-101 class, focusing on the topic of "Changes and Impacts of Public Opinions on Electric Vehicles in US".
+This repository presents the individual project for the DIGHUM-101 class by Jenny Wang.
 
 ![electric-vehicles-main-image](https://github.com/Jennyw-108/Public-Opinions-on-Electric-Vehicles-in-US/assets/100659563/ccadf2fb-0239-4ace-a19e-7059e7f925eb)
+
+## Abstract
+Understanding the public opinions and impacts of electric vehicles is crucial for gaining insights into the current energy sector and predicting the future of renewable energy in the field. With the encouragement of governmental and institutional policies, electric vehicles have become a revolutionary symbol of the decade and a feasible solution for lessening pollution caused by traditional fossil-fueled vehicles. Nevertheless, despite the fact that electric vehicles have gained popularity over the years, they still face challenges such as battery safety, high upfront costs, and limited infrastructure. Therefore, it is important to learn about public perceptions of electric cars and their effects on production and consumption trends over years. This notebook collects institutional data, professional research, and private views to address the impact of public opinions on the acceptance of electric vehicles and their subsequent market and environmental effects under promoting governmental policies, examining the relationship between the viewpoints of different sectors and the statistics on electric vehicle sales.
